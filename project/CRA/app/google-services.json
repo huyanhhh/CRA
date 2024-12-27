@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474107298010",
+    "project_id": "cradata-654df",
+    "storage_bucket": "cradata-654df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474107298010:android:00d730f39ec8e768b565e3",
+        "android_client_info": {
+          "package_name": "com.example.cra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkuktvpOC7QndKx_IWT_9LIBHcB2TRgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
